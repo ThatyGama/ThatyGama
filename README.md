@@ -1,4 +1,5 @@
 - 👋 I’m Thatyane Gama, a Full Stack Web & Mobile developer.
 - 👀 I’m interested in coding useful things!
 - :woman_technologist: Main Skills: CSS, JavaScript, TypeScript, React, React Native, Vue, Angular, UX/UI fundamentals, NodeJS, Adonis, SQL, MongoDB, Docker, AWS. | Other knowledges: Java, Python/Django, PHP, Laravel and C.
+- :clipboard: [Curriculum](https://drive.google.com/file/d/1MecnD1CcgUKQfT_IRSWhhyHx2hKBDpV7/view?usp=sharing)
 - 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/thatyane-gama-carvalho/)
